@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Full-Website{
+    width: 1024px;
+    height: auto;
+    margin: 0 auto;
+}
+.header{
+    background-color:#341f97;
+    text-align: center;
+    font-size: 50px;
+}
+img{
+    max-width: 50px;
+}
+
+.menu{
+    background-color: red;
+    text-align: center;
+    padding: 20px;
+}
+.menu li{
+    display: inline-block;
+   margin: -5px;
+    
+}
+.menu li a{
+    color: #fff;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    border-left: 1px solid #fff;
+}
+.first-baner{
+    height: 200px;
+    background-image: url("https://i.ibb.co/bNJZG2W/pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustra.jpg");
+    color: #fff;
+    text-align: center;
+    background-position: top center;
+    background-size: contain;
+    padding: 80px 0;
+    
+}
+p{
+    margin: 20px 150px;
+}
+.contact .contact1{
+    display: inline-block;
+}
+.contact .contact1 a{
+    color: #fff;
+    background-color: green;
+    padding: 15px 50px;
+    margin-top: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.second-baner{
+    height: 200px;
+    background-image: url("https://i.ibb.co/2k4JnXT/pngtree-modern-double-color-futuristic-neon-background-image-351866.jpg");
+    color: #fff;
+    text-align: center;
+    background-position: top center;
+    background-size: contain;
+    padding: 80px 0;
+}
+h2{
+    background-color: green;
+}
+.paragraph{
+    background-color: yellow;
+    text-align: left;
+    color: black;
+}
+.complete .complete1 a{
+    color: #fff;
+    background-color: black;
+    padding: 10px 50px;
+    margin-top:20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.third-baner{
+    background-color: #2ecc71;
+   
+  
+  
+}
+
+h3{
+    text-align: center;
+   
+   
+}
+.div1{
+    display: inline-block;
+}
+.div2{
+    margin-left: 0 50px;
+    text-align: center;
+    display: inline-block;
+}
+ .div3{
+    text-align: center;
+ }
+ .div4{
+    
+
+ } 
+
+
+
+ .footer-bottom{
+    background-color: #341f98;
+    padding: 20px;
+    text-align: center;
+    
+ }
+ .footer-bottom ul li{
+    display: inline-block;
+   
+ }
+ .footer-bottom ul li a{
+    color: #fff;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #fff;
+    border-radius: 10px;
+ }
